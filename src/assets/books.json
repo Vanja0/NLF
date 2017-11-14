@@ -1,34 +1,38 @@
-{
-  "books": [
-    {
-      "id": "1",
-      "name": "Don Quixote",
-      "author": "Miguel de Cervantes",
-      "genre": "Novel"
-    },
-    {
-      "id": "2",
-      "name": "War and Peace",
-      "author": "Leo Tolstoy",
-      "genre": "Novel"
-    },
-    {
-      "id": "3",
-      "name": "Moby-Dick",
-      "author": "Herman Melville",
-      "genre": "Novel"
-    },
-    {
-      "id": "4",
-      "name": "The Divine Comedy",
-      "author": "Dante Alighieri",
-      "genre": "Poetry"
-    },
-    {
-      "id": "5",
-      "name": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
-      "genre": "Novel"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "name": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": "Novel",
+    "loaned": "No"
+  },
+  {
+    "id": "2",
+    "name": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Novel",
+    "loaned": "No"
+  },
+  {
+    "id": "3",
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Novel",
+    "loaned": "No"
+  },
+  {
+    "id": "4",
+    "name": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "genre": "Poetry",
+    "loaned": "No"
+  },
+  {
+    "id": "5",
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Novel",
+    "loaned": "Yes",
+    "loanedBy": "Petar Peric"
+  }
+]
